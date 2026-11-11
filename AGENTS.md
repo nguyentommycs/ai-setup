@@ -44,6 +44,5 @@ Strong success criteria let you loop independently. Weak criteria ("make it work
 - Never include your agent name as co-author when writing commit messages.
 
 ## 6. Voice for PRs and other prose
-- Before drafting a PR description, slack update, jira comment, or status report, read `/Users/tommy.v.nguyen/.claude/VOICE.md` and match the tone and style described there.
+- Before drafting a PR description, slack update, jira comment, or status report, read `~/.agents/VOICE.md` and match the tone and style described there.
 
-<!-- TODO: photo cut off at line 49; check whether anything follows. -->
